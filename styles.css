@@ -416,13 +416,16 @@ footer {
 }
 
 /* Dark Mode Styles */
-/* @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
     body {
         background-color: #121212;
         color: #90ee90;
     }
     main {
         background-color: #1d1d1d;
+    }
+    h3 {
+        color: #007bff;
     }
     section, .services {
         background-color: #1f1f1f;
@@ -447,7 +450,7 @@ footer {
     .product-card .price {
         color: #007bff;
     }
-} */
+}
 
 
 
