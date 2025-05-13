@@ -16,6 +16,7 @@ Ecommerce Website: Implement a multi-page site with navigation.
 > - JavaScript interactivity.
 > - A deployment link.
 
+# *Deployment link:* https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-xix-osano/
 ## Tasks
 
 Create a well-structured HTML5 document.
